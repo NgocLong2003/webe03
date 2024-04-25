@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>CEE LOGIN</title>
+	<title>ADMIN LOGIN</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="login-ui/image/png" href="images/icons/favicon.ico"/>
@@ -40,7 +40,7 @@
 					</div>
 
 
-					<div class="container-login100-form-btn" align="right">
+					<div class="container-login100-form-btn" align="center">
 						<button type="submit" class="login100-form-btn">
 							Login
 						</button>
